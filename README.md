@@ -1,1 +1,1 @@
-# Real-Time-face-Detector-
+# Real Time Face Detector
